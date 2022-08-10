@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.exe
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.dll
+E:\semester 2\pemograman\praktikum\test\test\bin\Debug\netcoreapp3.1\test.pdb
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.dll
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.pdb
+E:\semester 2\pemograman\praktikum\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

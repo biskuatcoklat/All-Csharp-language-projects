@@ -1,0 +1,5 @@
+E:\semester 2\pemograman\praktikum\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csproj.CoreCompileInputs.cache

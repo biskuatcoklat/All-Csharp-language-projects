@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.exe
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.deps.json
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.runtimeconfig.json
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.runtimeconfig.dev.json
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.dll
+E:\semester 2\pemograman\tugas\MyBiodata\bin\Debug\netcoreapp3.1\MyBiodata.pdb
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.AssemblyInfo.cs
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.dll
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.pdb
+E:\semester 2\pemograman\tugas\MyBiodata\obj\Debug\netcoreapp3.1\MyBiodata.genruntimeconfig.cache

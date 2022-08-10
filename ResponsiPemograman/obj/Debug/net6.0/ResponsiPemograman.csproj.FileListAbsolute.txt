@@ -1,0 +1,15 @@
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\bin\Debug\net6.0\ResponsiPemograman.exe
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\bin\Debug\net6.0\ResponsiPemograman.deps.json
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\bin\Debug\net6.0\ResponsiPemograman.runtimeconfig.json
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\bin\Debug\net6.0\ResponsiPemograman.dll
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\bin\Debug\net6.0\ResponsiPemograman.pdb
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.csproj.AssemblyReference.cache
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.AssemblyInfoInputs.cache
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.AssemblyInfo.cs
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.csproj.CoreCompileInputs.cache
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.dll
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\refint\ResponsiPemograman.dll
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.pdb
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ResponsiPemograman.genruntimeconfig.cache
+D:\pemograman\ResponsiPemograman\ResponsiPemograman\obj\Debug\net6.0\ref\ResponsiPemograman.dll

@@ -1,0 +1,7 @@
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\obj\Debug\Project1TheSuperCar.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\obj\Debug\Project1TheSuperCar.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\bin\Debug\Project1TheSuperCar.exe.config
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\bin\Debug\Project1TheSuperCar.exe
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\bin\Debug\Project1TheSuperCar.pdb
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\obj\Debug\Project1TheSuperCar.exe
+E:\semester 2\pemograman\praktikum\Project1TheSuperCar\Project1TheSuperCar\obj\Debug\Project1TheSuperCar.pdb

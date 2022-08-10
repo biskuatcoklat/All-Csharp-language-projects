@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.exe
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.deps.json
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.runtimeconfig.json
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.runtimeconfig.dev.json
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.dll
+E:\semester 2\pemograman\TheWayang\TheWayang\bin\Debug\netcoreapp3.1\TheWayang.pdb
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.AssemblyInfo.cs
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.dll
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.pdb
+E:\semester 2\pemograman\TheWayang\TheWayang\obj\Debug\netcoreapp3.1\TheWayang.genruntimeconfig.cache

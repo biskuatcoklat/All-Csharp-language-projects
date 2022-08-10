@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.exe
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.deps.json
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.dll
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\bin\Debug\netcoreapp3.1\Project2TheMotorSport.pdb
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.dll
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.pdb
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.genruntimeconfig.cache
+E:\semester 2\pemograman\praktikum\Project2TheMotorSport\Project2TheMotorSport\obj\Debug\netcoreapp3.1\Project2TheMotorSport.csproj.AssemblyReference.cache

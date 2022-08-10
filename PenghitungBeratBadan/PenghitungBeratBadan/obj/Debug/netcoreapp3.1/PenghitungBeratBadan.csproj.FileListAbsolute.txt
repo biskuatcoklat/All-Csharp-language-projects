@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.exe
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.deps.json
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.dll
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\bin\Debug\netcoreapp3.1\PenghitungBeratBadan.pdb
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.dll
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.pdb
+E:\semester 2\pemograman\praktikum\PenghitungBeratBadan\PenghitungBeratBadan\obj\Debug\netcoreapp3.1\PenghitungBeratBadan.genruntimeconfig.cache

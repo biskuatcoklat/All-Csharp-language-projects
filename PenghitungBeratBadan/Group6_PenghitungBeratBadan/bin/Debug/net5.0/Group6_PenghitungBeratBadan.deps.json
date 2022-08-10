@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Group6_PenghitungBeratBadan/1.0.0": {
+        "runtime": {
+          "Group6_PenghitungBeratBadan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Group6_PenghitungBeratBadan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

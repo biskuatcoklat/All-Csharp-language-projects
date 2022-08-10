@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.AssemblyInfo.cs
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.exe
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.deps.json
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.runtimeconfig.json
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.runtimeconfig.dev.json
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.dll
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\bin\Debug\netcoreapp3.1\MakeLuwakCoffee.pdb
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.dll
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.pdb
+E:\semester 2\pemograman\praktikum\MakeLuwakCoffee\MakeLuwakCoffee\obj\Debug\netcoreapp3.1\MakeLuwakCoffee.genruntimeconfig.cache

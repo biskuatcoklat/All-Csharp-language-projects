@@ -1,0 +1,14 @@
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.exe
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.deps.json
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.runtimeconfig.json
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.runtimeconfig.dev.json
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.dll
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\bin\Debug\netcoreapp3.1\TheBalls.pdb
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.csproj.AssemblyReference.cache
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.AssemblyInfoInputs.cache
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.AssemblyInfo.cs
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.csproj.CoreCompileInputs.cache
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.dll
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.pdb
+E:\semester 2\pemograman\tugas\TheBalls\TheBalls\obj\Debug\netcoreapp3.1\TheBalls.genruntimeconfig.cache

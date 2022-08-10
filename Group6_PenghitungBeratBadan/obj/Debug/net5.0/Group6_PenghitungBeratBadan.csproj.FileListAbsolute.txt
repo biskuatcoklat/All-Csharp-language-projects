@@ -1,0 +1,16 @@
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.exe
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.deps.json
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.runtimeconfig.json
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.runtimeconfig.dev.json
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.dll
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\bin\Debug\net5.0\Group6_PenghitungBeratBadan.pdb
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.csproj.AssemblyReference.cache
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.AssemblyInfoInputs.cache
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.AssemblyInfo.cs
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.csproj.CoreCompileInputs.cache
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.dll
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\refint\Group6_PenghitungBeratBadan.dll
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.pdb
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\Group6_PenghitungBeratBadan.genruntimeconfig.cache
+D:\source\repos\CSharp\CSharp OOP\Group6_PenghitungBeratBadan\obj\Debug\net5.0\ref\Group6_PenghitungBeratBadan.dll
